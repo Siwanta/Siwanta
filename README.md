@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Siwanta Thapa and I am a senior studying Electrical Engineering at Columbia University.
-I thoroughly enjoyed my computer sciences courses last semester and have decided to join the community!
+I thoroughly enjoyed my computer science courses last semester and have decided to join the community!
 
 ![Siwanta-Thapa-red](https://user-images.githubusercontent.com/113737533/217113184-7fdaa15f-5350-4272-8854-cd8125b43863.svg)
 
